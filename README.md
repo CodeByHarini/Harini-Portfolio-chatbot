@@ -54,7 +54,7 @@ python app.py
 
 ### Screenshot
 
-![Chatbot Screenshot](Sample Output.jpg)
+![Chatbot Screenshot](https://github.com/CodeByHarini/Harini-Portfolio-chatbot/blob/main/Sample%20Output.jpg)
 
 ### Video
 
