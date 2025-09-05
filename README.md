@@ -58,7 +58,7 @@ python app.py
 
 ### Video
 
-[![Watch Video](assets/chatbot_demo_thumbnail.png)](DemoVideo.mp4)
+[![Watch Video](assets/chatbot_demo_thumbnail.png)](https://github.com/CodeByHarini/Harini-Portfolio-chatbot/blob/main/Demo%20Video.mp4)
 
 
 ## 🖥 Features
