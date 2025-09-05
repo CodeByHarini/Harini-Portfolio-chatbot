@@ -54,11 +54,11 @@ python app.py
 
 ### Screenshot
 
-![Chatbot Screenshot](assets/chatbot_screenshot.png)
+![Chatbot Screenshot](SampleOutput.png)
 
 ### Video
 
-[![Watch Video](assets/chatbot_demo_thumbnail.png)](assets/chatbot_demo.mp4)
+[![Watch Video](assets/chatbot_demo_thumbnail.png)](DemoVideo.mp4)
 
 
 ## 🖥 Features
