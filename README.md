@@ -54,7 +54,7 @@ python app.py
 
 ### Screenshot
 
-![Chatbot Screenshot](SampleOutput.jpg)
+![Chatbot Screenshot](Sample Output.jpg)
 
 ### Video
 
