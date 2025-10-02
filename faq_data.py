@@ -14,22 +14,31 @@ faq_data = {
     ),
 
     "projects": {
-        "Fruit Ripeness Classifier": "A machine learning model that predicts the ripeness of fruits using image data.",
-        "Fruit Type Identifier": "An image classification model to identify different types of fruits.",
-        "AI Chatbot for FAQs": "Built a chatbot using Hugging Face Transformers to answer domain-specific questions automatically."
+        "Fruit Ripeness Classifier": "A deep learning model that predicts the ripeness of fruits (unripe, ripe, overripe) using CNNs.",
+        "Fruit Type Identifier": "An image classification model to identify different types of fruits (e.g., apple, banana, orange).",
+        "Garbage Classifier (YOLOv8)": "A real-time object detection model that classifies waste into recyclable, organic, and electronic categories.",
+        "Text Summarizer": "A transformer-based model for abstractive and extractive text summarization with strong ROUGE performance, deployed using Flask.",
+        "AI Chatbot for FAQs": "A conversational chatbot using NLP techniques to answer domain-specific questions and deployed as a portfolio assistant.",
+        "Magic Pen (AI Drawing Tool)": "An AI-powered drawing application that uses real-time hand tracking where fingers act as brushes with multiple colors and eraser support."
     },
+    
 
     "contact": {
         "email": "helloharini08@gmail.com",
         "linkedin": "https://www.linkedin.com/in/s-r-harini-465808249/",
         "github": "https://github.com/CodeByHarini",
-        "portfolio": "https://yourportfolio.com" ,
-        "resume": "https://drive.google.com/file/d/1_5jye6Jr5Q8977EZYx3-Yc92Bor6fy0e/view?usp=sharing"
+        "portfolio": "https://github.com/CodeByHarini/CodeByHarini?tab=readme-ov-file" ,
+        "resume": "https://drive.google.com/file/d/1qhygPtuNn8Jhy5UrA2nm9gb2YzOhxLzi/view?usp=sharing"
     },
 
     "extra_info": {
         "education": "Pursuing a Bachelor's degree in Artificial Intelligence and Data Science.",
-        "certifications": "Coming soon! You can easily update this later.",
+        "certifications": [
+            "Oracle Cloud Infrastructure (OCI) 2025 Certified AI Foundations Associate",
+            "OCI Data Science Professional | 2025",
+            "OCI Generative AI Professional | 2025",
+            "NPTEL – Database Management Systems (DBMS) | 2023"
+        ],
         "interests": "I enjoy AI, deep learning, NLP, and developing intelligent web applications."
     }
 }
